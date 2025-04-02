@@ -1,27 +1,7 @@
-ecommerce-project
-├── src/
-├── app.ts # Main app entry
-├── server.ts # Server setup
-├── config/ # Configuration files
-├── constants/ # Constant values
-├── controllers/ # Route controllers
-├── dtos/ # Data Transfer Objects
-├── interfaces/ # TypeScript interfaces
-├── middlewares/ # Custom middlewares
-├── models/ # Mongoose models
-├── routes/ # API routes
-├── services/ # Business logic
-├── utils/ # Utility functions
-├── validations/ # Validation schemas
-└── cache/ # Redis caching setup
-├── package.json # NPM dependencies and scripts
-├── tsconfig.json # TypeScript configuration
-└── README.md # Project documentation
-
-````
 # ECommerce API
 
 ## Structure
+
     ecommerce-api-express
     ├── src/
     ├── app.ts          # Main app entry
@@ -38,9 +18,9 @@ ecommerce-project
     ├── utils/          # Utility functions
     ├── validations/    # Validation schemas
     └── cache/          # Redis caching setup
-    ├── package.json                 # NPM dependencies and scripts
-    ├── tsconfig.json                # TypeScript configuration
-    └── README.md                    # Project documentation
+    ├── package.json    # NPM dependencies and scripts
+    ├── tsconfig.json   # TypeScript configuration
+    └── README.md       # Project documentation
 
 ## Getting Started
 
@@ -51,7 +31,7 @@ ecommerce-project
 ```bash
 git clone https://github.com/DevCoderPS/ecommerce-api-express.git
 cd ecommerce-api-express
-````
+```
 
 2. Install dependencies
 
